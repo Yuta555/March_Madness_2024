@@ -1,7 +1,7 @@
 # March_Madness_2024
 Just for fun. Quick prediction. 
 
-- Used data only from Kaggle.
+- Used data only from [Kaggle](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/overview).
 - This is a binary classification model that takes some factors for two teams and outputs the winning probability of stronger seed's team.
 - Took the following features into account in the final model:
     - StrengthDiff: the difference of seeds between two teams. 
